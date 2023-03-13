@@ -67,7 +67,7 @@ function Land() {
              </div> 
            
 
-           <h1 className='text-base font-normal text-black  px-72   mt-20' style={{ fontFamily: 'Source Sans Pro' }} >The Apple Watch Solar technology allows the device to charge using the power of the sun, making it an eco-friendly and sustainable alternative to traditional charging methods. </h1>
+           <h1 className='text-base font-normal text-black  px-72   mt-20' style={{ fontFamily: 'Source Sans Pro' }} >The Apple Watch Solar technology allows the device to charge using the power of the sun, making it an eco-friendly and sustainable alternative to traditional charging Methods. </h1>
            </div>
         </div>
       
